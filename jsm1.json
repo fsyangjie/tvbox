@@ -1,15 +1,6 @@
 {
 "spider":"./jar/fan.txt;md5;1f399f48364375f6687cb69873482cc7",
-"lives":[
- {
-      "name": "直播一",
-      "type": 0,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://yun.9ibao.com/aapi/epg/?ch={name}&date={date}",
-      "logo": "https://yun.9ibao.com/aapi/epg/logo/{name}.png"
-    },
+"lives":[{  "name": "直播一", "type": 0, "url": "http://我不是.肥猫.live/TV/tvzb.txt", "playerType": 1, "ua": "okhttp/3.15","epg": "https://yun.9ibao.com/aapi/epg/?ch={name}&date={date}", "logo": "https://yun.9ibao.com/aapi/epg/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://yun.9ibao.com/aapi/epg/?ch={name}&date={date}","logo":"https://yun.9ibao.com/aapi/epg/logo/{name}.png"},
 {"name":"ipv6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"https://yun.9ibao.com/aapi/epg/?ch={name}&date={date}","logo":"https://yun.9ibao.com/aapi/epg/logo/{name}.png"}
  ],
