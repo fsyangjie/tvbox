@@ -23,8 +23,9 @@ __export(index_config_exports, {
 });
 module.exports = __toCommonJS(index_config_exports);
 var index_config_default = {
-  alitoken: "51427b95ab9d47a6921a27951ebd3f1e",
-  bilicookie: "buvid3=02675249-8ED3-C418-87F5-59E18316459714816infoc; b_nut=1704421014; _uuid=5D435F74-F574-D9AB-62C1-B9294DE465D913102infoc; buvid_fp=e8c5650c749398e9b5cad3f3ddb5081e; buvid4=007E85D1-52C1-7E6E-07CF-837FFBC9349516677-024010502-J5vTDSZDCw4fNnXRejbSVg%3D%3D; rpdid=|()kYJmulRu0J'u~|RRJl)JR; PVID=1; SESSDATA=3be091d3%2C1720332009%2C699ed%2A11CjAcCdwXG5kY1umhCOpQHOn_WP7L9xFBfWO7KKd4BPweodpR6VyIfeNyPiRmkr5jCqsSVjg0R0dZOVVHRUo3RnhPRTZFc3JPbGdiUjFCdHpiRDhiTkticmdKTjVyS1VhbDdvNjFMSDJlbUJydUlRdjFUNGFBNkJlV2ZTa0N1Q1BEVi1QYTQzTUh3IIEC; bili_jct=b0ee7b5d3f27df893545d811d95506d4; DedeUserID=78014638; DedeUserID__ckMd5=4c8c5d65065e468a; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=5; CURRENT_BLACKGAP=0; CURRENT_FNVAL=4048; b_lsid=75E916AA_18EA1A8D995; bsource=search_baidu; FEED_LIVE_VERSION=V_HEADER_LIVE_NO_POP; browser_resolution=1507-691; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTIzNjk5MTMsImlhdCI6MTcxMjExMDY1MywicGx0IjotMX0.8zQW_fNTCSBlK_JkHnzu3gDw62wuTK1qgKcbGec3swM; bili_ticket_expires=171236985",
+  aliToken: "51427b95ab9d47a6921a27951ebd3f1e",
+  quarkCookie: "_UP_A4A_11_=wb965111521e45ffa80410c24a071a54; _UP_D_=pc; tfstk=fXFith4nnRk114LAjWc1TT-OQUXL5hGjqodxDjnVLDoBBchYujR4Drht3GaYxmqYlcPtWc34mknIMcFTB-Y_tuAv6G6_uIcxggIRw_U15jGV2EjCXmnslyoqlSMN9PGjgMEW0dR85uVOAjYmgwcEoqOqgIrqLyoIlq-ZuC738DgqgCJZgH8EuqxZNmAqqSPQTaC3h7bb2rFnSvW87D8jTW0iX0zasIR2zVDi4Poh2svabvzjnSTXixaaFogzbhS-Cry3xVcc9dlz--roR55Jj2wT8znUrEdYrfV3t-kh71znscDo-vYWpf24fSD_IE_78frQF0MNdMg367HmVvxFbyUnbY20XMOqX84UxYFpvQhbA-rqok-G4A9eUc4wG27YtK9jQ2gnVNJioG_mbu_h-wv5CAuIWgQh-K9jQ2gn2wbHFhMZRVIR.; __pus=c81f57897dafcb65d4ecb501bc299199AARcqF72zsatdbsCbiT3qVqsk36caaycoPQW7hz8rbEf+UY7f5aGgH1e90lsONAUwCAW8y27u5A/KXyYqkHCWgjS; __kp=99fa2760-1669-11ef-90cf-8f7a59c3b86e; __kps=AATSt4xuf6r6bqes3LdJvxvy; __ktd=c2e+aLICIvFoeklXXz36VA==; __uid=AATSt4xuf6r6bqes3LdJvxvy; Video-Auth=smob3MOUslklDq2MutANJYZCVo50sLv0GFelx3+cu1nK2fkdL2kvkdpT5yNOhNz0NLTyi5ThWRL47+ztJA4kXQ==; __puus=72f667c533c9a22496f88d2f1bb7ae71AAQ7mrvFw7s9AUPUXvnuGPkcDU3RRTVPdYaYQfsM9Cje2doYXgRZXbImg02EaUaEG+G9ikpo3xubGGdElArOuYvUtJzIXb6yHDnSZbtEUxkwvjfQRNEnDnVwLQ6LL2ORjRaxa9OUfwk/WppWvy6OcDqQtHYkaqB+Poxn5kFs7ZVdAtX7ZQks1czD+g9gAZjsbeBHxHQ1AP5MGc1s3M4RhwZQ",
+  biliCookie: "buvid3=02675249-8ED3-C418-87F5-59E18316459714816infoc; b_nut=1704421014; _uuid=5D435F74-F574-D9AB-62C1-B9294DE465D913102infoc; buvid_fp=e8c5650c749398e9b5cad3f3ddb5081e; buvid4=007E85D1-52C1-7E6E-07CF-837FFBC9349516677-024010502-J5vTDSZDCw4fNnXRejbSVg%3D%3D; rpdid=|()kYJmulRu0J'u~|RRJl)JR; PVID=1; SESSDATA=3be091d3%2C1720332009%2C699ed%2A11CjAcCdwXG5kY1umhCOpQHOn_WP7L9xFBfWO7KKd4BPweodpR6VyIfeNyPiRmkr5jCqsSVjg0R0dZOVVHRUo3RnhPRTZFc3JPbGdiUjFCdHpiRDhiTkticmdKTjVyS1VhbDdvNjFMSDJlbUJydUlRdjFUNGFBNkJlV2ZTa0N1Q1BEVi1QYTQzTUh3IIEC; bili_jct=b0ee7b5d3f27df893545d811d95506d4; DedeUserID=78014638; DedeUserID__ckMd5=4c8c5d65065e468a; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=5; CURRENT_BLACKGAP=0; CURRENT_FNVAL=4048; b_lsid=75E916AA_18EA1A8D995; bsource=search_baidu; FEED_LIVE_VERSION=V_HEADER_LIVE_NO_POP; browser_resolution=1507-691; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTIzNjk5MTMsImlhdCI6MTcxMjExMDY1MywicGx0IjotMX0.8zQW_fNTCSBlK_JkHnzu3gDw62wuTK1qgKcbGec3swM; bili_ticket_expires=171236985",
   ffm3u8: {
     url: "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
     categories: ["国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "记录片"]
@@ -37,6 +38,140 @@ var index_config_default = {
     {
       name: "💢repl",
       server: "https://ali.liucn.repl.co"
+    },
+    {
+      "name": "🟢 小雅",
+      "server": "http://124.71.206.236:5678/",
+      "startPage": "/",
+      "showAll": false,
+      "search": true,
+      "headers": {
+        "Authorization": ""
+      },
+      "params": {
+        "/abc": {
+          "password": "123"
+        },
+        "/abc/abc": {
+          "password": "123"
+        }
+      }
+    },
+    {
+      "name": "🟢 合集",
+      "server": "http://www.jczyl.top:5244/"
+    },
+    {
+      "name": "🟢 东哥",
+      "server": "http://101.34.67.237:5244/"
+    },
+    {
+      "name": "🟢 美云",
+      "server": "https://h.dfjx.ltd/"
+    },
+    {
+      "name": "🟢 小新",
+      "server": "https://pan.cdnxin.top/"
+    },
+    {
+      "name": "🟢 白云",
+      "server": "http://breadmyth.asuscomm.com:22222/"
+    },
+    {
+      "name": "🟢 小鸭",
+      "server": "http://www.214728327.xyz:5201/"
+    },
+    {
+      "name": "🟢 瑶瑶",
+      "server": "https://lyly.run.goorm.io/"
+    },
+    {
+      "name": "🟢 潇洒",
+      "server": "https://alist.azad.asia/"
+    },
+    {
+      "name": "🟢 鹏程",
+      "server": "https://pan.pengcheng.team/"
+    },
+    {
+      "name": "🟢 浅唱",
+      "server": "http://vtok.pp.ua/"
+    },
+    {
+      "name": "🟢 小丫",
+      "server": "http://alist.xiaoya.pro/"
+    },
+    {
+      "name": "🟢 触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🟢 弱水",
+      "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "🟢 神器",
+      "server": "https://alist.ygxz.xyz/"
+    },
+    {
+      "name": "🟢 资源",
+      "server": "https://pan.ecve.cn/"
+    },
+    {
+      "name": "🟢 雨呢",
+      "server": "https://pan.clun.top/"
+    },
+    {
+      "name": "🟢 oeio",
+      "server": "https://o.oeio.repl.co/"
+    },
+    {
+      "name": "🟢 悦享",
+      "server": "https://nics.eu.org/"
+    },
+    {
+      "name": "🟢 分享",
+      "server": "https://ofoo.ml/"
+    },
+    {
+      "name": "🟢 PRO",
+      "server": "https://alist.prpr.run/"
+    },
+    {
+      "name": "🟢 多多",
+      "server": "https://pan.xwbeta.com"
+    },
+    {
+      "name": "🟢 小陈",
+      "server": "https://ypan.cc/"
+    },
+    {
+      "name": "🟢 只鱼",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "🟢 七米",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "🟢 九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "🟢 白雪",
+      "server": "https://pan.jlbx.xyz"
+    },
+    {
+      "name": "🟢 星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "🟢 repl",
+      "server": "https://ali.liucn.repl.co"
+    },
+    {
+      "name": "🟢 讯维",
+      "server": "https://pan.xwbeta.com"
     }
   ],
   color: [
