@@ -18,7 +18,7 @@ let Play_Ref = "https://www.ximalaya.com/sound/" + input + "/";
 let url =
   "https://www.ximalaya.com/mobile-playpage/track/v3/baseInfo/".concat(Date.now()) +"?device=www2&trackId=" +input +"&trackQualityLevel=1";
 let html = request(url, {
-  headers: { Referer: Play_Ref, "User-Agent": PC_UA },
+headers: { Referer: Play_Ref, "User-Agent": PC_UA,"Cookie":"wfp=ACNhODBmMTMxMjc0OTYzOWM5ORW3ebfv1MR0ZXN0;" },
 });
 let DD1 = new Uint8Array([
   183, 174, 108, 16, 131, 159, 250, 5, 239, 110, 193, 202, 153, 137, 251, 176,
