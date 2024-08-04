@@ -29,7 +29,9 @@ var rule = {
     searchable:2,
     quickSearch:0,
     headers:{
-        'User-Agent':'MOBILE_UA'
+        'User-Agent':'MOBILE_UA',
+        "Referer": 'https://www.xsmp3.com',
+        
     },
     timeout:5000,
     class_parse: '.list-navi&&li;a&&Text;a&&href;/(\\w+).html',
