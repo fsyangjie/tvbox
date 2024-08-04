@@ -36,7 +36,7 @@ var rule = {
     timeout:5000,
     class_parse: '.list-navi&&li;a&&Text;a&&href;/(\\w+).html',
     play_parse:true,
-    lazy:'js:input={jx:0,url:input,parse:0}',
+    lazy:'js:input={jx:0,header:{"Referer":"https://www.xsmp3.com"},url:input,parse:0}',
     limit:6,
     推荐:'*',
     一级:'#post_list_box&&li;h2&&Text;img&&src;.f_r&&span:eq(3)&&Text;a&&href',
